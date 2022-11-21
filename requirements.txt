@@ -11,6 +11,6 @@ oauth2_provider
 django-extra-fields
 django-python-code-field
 keras==2.2.5
-tensorflow==1.14
+tensorflow==2.9.3
 numpy 
 pillow
